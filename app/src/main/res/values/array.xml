@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phrase">
+        <item>%1$s and I stopped to %2$s %3$s.</item>
+        <item>I had to help %1$s %2$s %3$s!</item>
+        <item>I was going to, but then %1$s asked me to %2$s %3$s&#8230;</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>Bob</item>
+        <item>President Obama</item>
+        <item>a fluffy rabbit</item>
+        <item>firefighters</item>
+        <item>communists</item>
+        <item>the internet</item>
+        <item>your mom</item>
+        <item>hundreds of eels</item>
+        <item>France</item>
+        <item>Sonic the Hedgehog</item>
+        <item>a ghost</item>
+    </string-array>
+
+    <string-array name="verb">
+        <item>pet</item>
+        <item>blow up</item>
+        <item>eat</item>
+        <item>steal</item>
+        <item>quest for</item>
+        <item>dance with</item>
+        <item>erase</item>
+        <item>jump over</item>
+        <item>wreck</item>
+        <item>tweet about</item>
+    </string-array>
+
+    <string-array name="object">
+        <item>a ferocious dinosaur</item>
+        <item>ALL the things</item>
+        <item>the White House</item>
+        <item>a toilet</item>
+        <item>a burning building</item>
+        <item>the Holy Grail</item>
+        <item>Russia</item>
+        <item>the Chaos Emeralds</item>
+        <item>tons of cheese</item>
+        <item>midgets</item>
+
+    </string-array>
+</resources>
